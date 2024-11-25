@@ -16,20 +16,6 @@ CoreTask Manager is a robust macOS task management application designed to provi
 - **Concurrency**: Swift async/await
 - **Notification Handling**: UserNotifications Framework
 
-## Project Structure
-```
-CoreTaskManager/
-├── Models/
-│   ├── Task.swift
-│   └── TaskCategory.swift
-├── Views/
-│   ├── TaskListView.swift
-│   └── TaskDetailView.swift
-├── ViewModels/
-│   └── TaskViewModel.swift
-└── Persistence/
-    └── CoreDataStack.swift
-```
 
 ## Core Functionalities
 - Create, Read, Update, Delete (CRUD) task operations
